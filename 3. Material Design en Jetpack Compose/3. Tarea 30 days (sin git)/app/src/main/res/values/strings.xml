@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Thirty Days</string>
+    <string name="dia1">Día 1</string>
+    <string name="titulo_dia_1">Preparar Limón Serrano</string>
+    <string name="descripcion_dia_1">El limón serrano, también conocido como ensalada Hurdana, es un plato tradicional de la Sierra de Béjar (Salamanca), el norte de Cáceres y la Sierra de Francia. Se trata de una receta festiva que antiguamente se servía como plato único y que, según la tradición popular, podría tener su origen en los últimos judíos conversos de la sierra salmantina. Esta curiosa ensalada combina limón, jamón y otros ingredientes, dando lugar a un contraste de sabores único.</string>
+    <string name="dia2">Día 2</string>
+    <string name="titulo_dia_2">Preparar Ensalada de Fideos Navideña</string>
+    <string name="descripcion_dia_2">La ensalada de fideos de colores en Perú es especial para la época navideña no solo por su atractivo colorido, sino también porque es muy fácil de preparar y se puede tener lista con antelación. Además, su versatilidad permite que combine a la perfección con el pavo o el cerdo, que son los protagonistas del banquete.</string>
+    <string name="dia3">Día 3</string>
+    <string name="titulo_dia_3">Preparar Ensalada de Betarraga</string>
+    <string name="descripcion_dia_3">La ensalada de betarraga, también conocida como ensalada rusa para los peruanos, se ha convertido en uno de los acompañamientos favoritos en la cena navideña, especialmente para servir junto con el pavo. Sin embargo, su versatilidad y delicioso sabor hacen que se disfrute en cualquier época del año, especialmente junto a un buen pollo al horno, lo más parecido al añorado pavo.</string>
+    <string name="dia4">Día 4</string>
+    <string name="titulo_dia_4">Preparar Ensalada Coleslaw</string>
+    <string name="descripcion_dia_4">La ensalada coleslaw combina repollo y zanahoria, con una salsa característica, algo dulce, que humecta las verduras, aportando un gran sabor. El repollo suele ser el blanco, aunque puedes combinarlo con el colorado si lo prefieres. También puedes agregar otros ingredientes como manzana, pollo, pasas y ananá, todos ingredientes que combinan perfectamente. Por su sabor algo dulce, suele ser el acompañamiento clásico de las ribs y el cerdo en general, ya que se suele usar en preparaciones agridulces como cuando se hace con ciruelas.</string>
+</resources>

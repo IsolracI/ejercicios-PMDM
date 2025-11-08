@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="los_comedores_de_patatas">Los Comedores de Patatas</string>
+    <string name="campo_de_trigo_con_cipreses">Campo de Trigo con Cipreses</string>
+    <string name="san_juan_bautista">San Juan Bautista</string>
+    <string name="la_ultima_cena">La Ultima Cena</string>
+    <string name="narciso">Narciso</string>
+    <string name="david_con_la_cabeza_de_goliat">David con la Cabeza de Goliat</string>
+    <string name="san_jeronimo_en_meditacion">San Jeronimo en Meditacion</string>
+    <string name="van_gogh">Van Gogh</string>
+    <string name="leonardo_da_vinci">Leonardo Da Vinci</string>
+    <string name="carvaggio">Carvaggio</string>
+</resources>
